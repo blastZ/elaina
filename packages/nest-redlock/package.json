@@ -1,0 +1,26 @@
+{
+  "name": "nest-redlock",
+  "version": "0.1.0",
+  "description": "nest redlock module",
+  "author": "blastz",
+  "homepage": "",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "redlock": "^5.0.0-beta.2"
+  }
+}
