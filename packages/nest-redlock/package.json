@@ -25,5 +25,5 @@
     "@nestjs/core": "^8.4.3",
     "redlock": "^5.0.0-beta.2"
   },
-  "gitHead": "0575ad47e9026a80164efb5275d91de39d1dd425"
+  "gitHead": "560995730590bbc9c92837d4295be8d8b5c5762d"
 }
