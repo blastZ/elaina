@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "registry": "https://registry.npmjs.org"
   },
   "scripts": {
     "tsc": "tsc",
@@ -25,5 +25,5 @@
     "@nestjs/core": "^8.4.3",
     "redlock": "^5.0.0-beta.2"
   },
-  "gitHead": "3b0e8a09daff4b7b4ab608c96f7cc4444f42a007"
+  "gitHead": "809fd3ec919c8891947572aaa9c588beb6a80eec"
 }
