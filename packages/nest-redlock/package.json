@@ -23,6 +23,7 @@
   "dependencies": {
     "@nestjs/common": "^8.4.3",
     "@nestjs/core": "^8.4.3",
+    "ioredis": "^5.0.3",
     "redlock": "^5.0.0-beta.2"
   },
   "gitHead": "809fd3ec919c8891947572aaa9c588beb6a80eec"
