@@ -1,4 +1,4 @@
-import { DynamicModule, Module, Provider } from "@nestjs/common";
+import { DynamicModule, Global, Module, Provider } from "@nestjs/common";
 import {
   NestRedlockConfig,
   NestRedlockDynamicConfig,
@@ -7,6 +7,7 @@ import { NEST_REDLOCK_CONFIG } from "./nest-redlock.constant";
 import { NestRedlockConfigFactory } from "./nest-redlock.interface";
 import { RedlockService } from "./nest-redlock.service";
 
+@Global()
 @Module({
   imports: [],
   providers: [RedlockService],
