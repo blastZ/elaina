@@ -3,12 +3,13 @@
   "version": "0.2.0",
   "description": "nest redlock module",
   "author": "blastz",
-  "homepage": "",
   "license": "MIT",
   "main": "dist/index.js",
   "files": [
     "dist"
   ],
+  "repository": "git@github.com:blastZ/elaina.git",
+  "homepage": "https://github.com/blastZ/elaina/tree/master/packages/nest-redlock",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
@@ -22,5 +23,14 @@
     "ioredis": "^5.0.3",
     "redlock": "^5.0.0-beta.2"
   },
-  "gitHead": "809fd3ec919c8891947572aaa9c588beb6a80eec"
+  "gitHead": "809fd3ec919c8891947572aaa9c588beb6a80eec",
+  "keywords": [
+    "nodejs",
+    "redlock",
+    "nest-redlock",
+    "nest",
+    "distributed",
+    "lock",
+    "redis"
+  ]
 }
