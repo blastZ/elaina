@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-npm install nest-redlock
+npm install @elaina/nest-redlock
 ```
 
 ## Usage

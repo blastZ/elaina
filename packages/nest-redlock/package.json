@@ -1,5 +1,5 @@
 {
-  "name": "nest-redlock",
+  "name": "@elaina/nest-redlock",
   "version": "0.2.0",
   "description": "nest redlock module",
   "author": "blastz",
