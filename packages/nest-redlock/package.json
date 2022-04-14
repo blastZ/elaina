@@ -8,9 +8,11 @@
   "files": [
     "dist"
   ],
+  "private": false,
   "repository": "git@github.com:blastZ/elaina.git",
   "homepage": "https://github.com/blastZ/elaina/tree/master/packages/nest-redlock",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org"
   },
   "scripts": {

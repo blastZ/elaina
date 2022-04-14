@@ -12,8 +12,10 @@
   "files": [
     "lib"
   ],
+  "private": false,
   "homepage": "https://github.com/blastZ/elaina/tree/master/packages/nest-oidc-provider",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org"
   },
   "repository": {
@@ -33,5 +35,5 @@
     "@types/oidc-provider": "^7.8.2",
     "oidc-provider": "^7.10.6"
   },
-  "gitHead": "2a061d75aaead8741a0b3eac6a744703ab2237bb"
+  "gitHead": "565af5be34cb1bd08a6dd24ecd767bebb2579216"
 }
