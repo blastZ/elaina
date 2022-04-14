@@ -1,6 +1,6 @@
 {
   "name": "@blastz/nest-redlock",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "nest redlock module",
   "author": "blastz",
   "license": "MIT",
