@@ -1,5 +1,5 @@
 {
-  "name": "@elaina/nest-redlock",
+  "name": "@blastz/nest-redlock",
   "version": "0.2.1",
   "description": "nest redlock module",
   "author": "blastz",
@@ -23,7 +23,7 @@
     "ioredis": "^5.0.3",
     "redlock": "^5.0.0-beta.2"
   },
-  "gitHead": "809fd3ec919c8891947572aaa9c588beb6a80eec",
+  "gitHead": "2a061d75aaead8741a0b3eac6a744703ab2237bb",
   "keywords": [
     "nodejs",
     "redlock",

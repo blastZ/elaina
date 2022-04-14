@@ -1,5 +1,5 @@
 {
-  "name": "@elaina/nest-oidc-provider",
+  "name": "@blastz/nest-oidc-provider",
   "version": "0.2.1",
   "description": "> TODO: description",
   "author": "blastz <touchzh1996@outlook.com>",
@@ -32,5 +32,6 @@
     "@nestjs/core": "^8.4.4",
     "@types/oidc-provider": "^7.8.2",
     "oidc-provider": "^7.10.6"
-  }
+  },
+  "gitHead": "2a061d75aaead8741a0b3eac6a744703ab2237bb"
 }
