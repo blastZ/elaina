@@ -1,0 +1,32 @@
+{
+  "name": "@blastz/socket.io-msgpack-parser",
+  "version": "0.2.4",
+  "description": "socket.io msgpack parser",
+  "author": "blastz",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/blastZ/elaina/tree/master/packages/socket.io-msgpack-parser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blastZ/elaina.git"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "jest",
+    "build": "rm -rf ./dist && npm run test && npm run tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/blastZ/elaina/issues"
+  },
+  "dependencies": {
+    "msgpackr": "^1.5.5"
+  }
+}
